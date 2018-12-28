@@ -1581,6 +1581,28 @@ pre code {
     margin-left: auto
 }
 
+.container-work {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px
+
+}
+.orangeline {
+   background:orange;
+   height:1px;
+
+   margin-top: 25px;
+   margin-bottom: 25px
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+
+
+}
+
 @media (min-width: 768px) {
     .container {
         width: 750px
@@ -3401,6 +3423,7 @@ tbody.collapse.in {
     border-top: 4px solid;
     border-right: 4px solid transparent;
     border-left: 4px solid transparent
+
 }
 
 .dropdown {
