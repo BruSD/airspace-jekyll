@@ -6760,3 +6760,8 @@ button.close {
         display: none !important
     }
 }
+
+blueletters{
+    color: blue;
+    background: white;
+}
